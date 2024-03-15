@@ -1,5 +1,5 @@
 # MyViewOfUserSpaceSoftware
-A view from a human-user&developer towards a user space software.  
+A view from a human-user&developer towards a user space software in a standalone/distributed computer system.
 Dotted arrow means dependencies. [1]
 
 ![Diagram of a view from a human-user&developer towards a user space software](https://github.com/lsc4719/MyViewOfUserSpaceSoftware/blob/71724b3772b98febb6d49e9ada7c01d4483863d6/user-view.drawio.svg)
