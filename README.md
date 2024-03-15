@@ -1,9 +1,8 @@
 # MyViewOfApplications
-A view from a user towards an application.  
-A user recognizes an **application** that consists of processes in hosts.  
+A view from a user towards an application.    
 Dotted arrow means dependencies. [1]
 
-![Diagram of a view from a user towards an application in hosts](https://github.com/lsc4719/MyViewOfUserSpaceSoftware/blob/bac0588a9b4ca3fc37381b746695a4496ada4643/user-view.drawio.svg)  
+![Diagram of a view from a user towards an application in hosts. A user recognizes an **application** that consists of processes in hosts.](https://github.com/lsc4719/MyViewOfUserSpaceSoftware/blob/bac0588a9b4ca3fc37381b746695a4496ada4643/user-view.drawio.svg)  
 
 ### ref 
 https://github.com/lsc4719/MyViewOfLinuxSystems  
